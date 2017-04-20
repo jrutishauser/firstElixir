@@ -5,7 +5,6 @@ defmodule Recursion do
     print_list(tail)
   end
 
-# terminating scenario
   def print_list([]) do
   end
 end
